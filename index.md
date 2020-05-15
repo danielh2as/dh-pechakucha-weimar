@@ -1,7 +1,7 @@
 ## Pecha Kucha für Digital Humanities-EnthusiastInnen in Weimar
 
-Was ist "Digital Humanities"? => [https://whatisdigitalhumanities.com/] (https://whatisdigitalhumanities.com/)
-Was ist "Pecha Kucha"? => https://de.wikipedia.org/wiki/Pecha_Kucha
+* Was ist "Digital Humanities"? => [https://whatisdigitalhumanities.com/](https://whatisdigitalhumanities.com/)
+* Was ist "Pecha Kucha"? => [https://de.wikipedia.org/wiki/Pecha_Kucha](https://de.wikipedia.org/wiki/Pecha_Kucha)
 
 ### Kontakt
 
